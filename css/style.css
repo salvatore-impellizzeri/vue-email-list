@@ -1,24 +1,8 @@
-/* 
-                    HEADER
-*/
+.center{
+    text-align: center;
+    margin-top: 30px;
+}
 
-
-/* 
-                    MAIN
-*/
-
-
-/* 
-                    FOOTER
-*/
-
-
-
-/* 
-                    DEBUG
-*/
-
-
-/* 
-                    RESPONSIVE
-*/
+li{
+    list-style: none;
+}
